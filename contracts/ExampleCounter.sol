@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Counter {
+contract ExampleCounter {
     uint public count;
     address public owner;
 
